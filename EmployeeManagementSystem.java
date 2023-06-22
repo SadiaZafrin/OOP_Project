@@ -254,7 +254,7 @@ public class EmployeeManagementSystem extends JFrame implements ActionListener {
         clearButton.setFont(buttonFont);
         clearButton.setForeground(buttonColor);
 
-// Set background color for buttons
+// Set background colour for buttons
         Color buttonBackgroundColor = Color.PINK;
         addButton.setBackground(buttonBackgroundColor);
         clearButton.setBackground(buttonBackgroundColor);
