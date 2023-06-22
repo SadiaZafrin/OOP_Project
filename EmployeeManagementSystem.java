@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package employee_management;
 
 import java.awt.Color;
@@ -20,10 +17,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
 
-/**
- *
- * @author Ekushey Computer
- */
+
 public class EmployeeManagementSystem extends JFrame implements ActionListener {
 
     private final JLabel nameLabel;
